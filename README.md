@@ -1,11 +1,19 @@
+# DevConnect AI 🚀
 
-  # Webdev-connect
+An AI-powered web development learning platform where students can:
+- Share notes
+- Learn web development
+- Use AI chatbot for doubts
 
-  This is a code bundle for Webdev-connect. The original project is available at https://www.figma.com/design/k4JxSeWYugr8i39Mcue4uX/Webdev-connect.
+## Tech Stack
+- React
+- Supabase
+- Hugging Face API
 
-  ## Running the code
+## Live Demo
+https://devconnect-ai.vercel.app
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+## Features
+- Notes sharing
+- AI chatbot
+- Roadmap generator
